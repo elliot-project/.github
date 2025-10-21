@@ -9,8 +9,4 @@
     <p>A European initiative to develop open, trustworthy, and multimodal foundation models for robust AI generalisation on diverse data streams.</p>
 </h2>
 
-# Associated Repositories
-<hr>
-
-### [Torchtitan with VLM support](https://github.com/VLR-CVC/torchtitan) (WIP)
-Fork of META's [torchtitan](https://github.com/pytorch/torchtitan) with added support for Visual Language Models. Using native pytorch, hightly modular.
+ELLIOT aspires to develop more than a typical Large Language Model, but rather to develop a new generation of Foundation Models that combine multiple modalities and have a wide range of applications.
